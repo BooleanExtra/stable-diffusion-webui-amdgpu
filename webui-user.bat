@@ -1,5 +1,6 @@
 @echo off
 
+@REM NOTE: Do not use the created "venv" directory for your IDE, it will upgrade packages and break the environment.
 set PYTHON="C:/Users/Boolean/.pyenv/pyenv-win/versions/3.10.6/python.exe"
 set GIT=
 set VENV_DIR=
